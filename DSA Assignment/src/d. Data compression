@@ -1,0 +1,8 @@
+Huffman Encoding will be much more suitable in this case because:
+It works well for diverse data types, making it suitable for various applications.
+Shorter codes are assigned to more frequent symbols, leading to efficient compression.
+Widely used in file compression formats.
+
+The worst-case time complexity is approximately:
+
+O(nlogn) for compression and O(logn) for decompression
